@@ -1,0 +1,355 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* gpsmap_website
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0-20250909\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-18 14:40+0000\n"
+"PO-Revision-Date: 2026-10-18 14:40+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.footer_custom_instance
+msgid "+52 (312) 454 - 9998"
+msgstr ""
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid ""
+"<font style=\"font-size: 62px;\" class=\"o_default_snippet_text\">\n"
+"                                                    Access controls\n"
+"                                                </font>"
+msgstr "<font style=\"font-size: 62px;\" class=\"o_default_snippet_text\">\n"
+"                                                    Controles de Acceso\n"
+"                                                </font>"
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid ""
+"<font style=\"font-size: 62px;\" class=\"o_default_snippet_text\">\n"
+"                                                    Locate your vehicles\n"
+"                                                </font>"
+msgstr ""
+"<font style=\"font-size: 62px;\" class=\"o_default_snippet_text\">\n"
+"                                                    Localiza tus Vehiculos\n"
+"                                                </font>"
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid ""
+"<font style=\"font-size: 62px;\" class=\"o_default_snippet_text\">\n"
+"                                                    Mirror Account\n"
+"                                                </font>"
+msgstr ""
+"<font style=\"font-size: 62px;\" class=\"o_default_snippet_text\">\n"
+"                                                    Cuenta Espejo\n"
+"                                                </font>"
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_aboutus
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_contactus
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_contactus_thanks
+msgid ""
+"<i class=\"fa fa-1x fa-fw fa-envelope "
+"mr-2\"/><span>contacto@solesgps.com</span>"
+msgstr ""
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_aboutus
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_contactus
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_contactus_thanks
+msgid ""
+"<i class=\"fa fa-map-marker fa-fw mr-2\"/><span class=\"o_force_ltr\">Priv "
+"Bugambilias 144</span>"
+msgstr ""
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_aboutus
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_contactus
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_contactus_thanks
+msgid ""
+"<i class=\"fa fa-phone fa-fw mr-2\"/><span class=\"o_force_ltr\">+52 (312) "
+"454 - 9998</span>"
+msgstr ""
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid ""
+"<span class=\"carousel-control-next-icon\" aria-hidden=\"true\"/>\n"
+"\n"
+"                            <span class=\"visually-hidden\">\n"
+"                                Next\n"
+"                            </span>"
+msgstr ""
+"<span class=\"carousel-control-next-icon\" aria-hidden=\"true\"/>\n"
+"\n"
+"                            <span class=\"visually-hidden\">\n"
+"                                Siguiente\n"
+"                            </span>"
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid ""
+"<span class=\"carousel-control-prev-icon\" aria-hidden=\"true\"/>\n"
+"\n"
+"                            <span class=\"visually-hidden\">\n"
+"                                Previous\n"
+"                            </span>"
+msgstr ""
+"<span class=\"carousel-control-prev-icon\" aria-hidden=\"true\"/>\n"
+"\n"
+"                            <span class=\"visually-hidden\">\n"
+"                                Anterior\n"
+"                            </span>"
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.footer_copyright_company_name
+msgid ""
+"<span class=\"o_footer_copyright_name mr-2\">Copyright &amp;copy; "
+"SolesGPS</span>"
+msgstr ""
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.footer_custom_instance
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_aboutus
+msgid "About us"
+msgstr "Acerca de"
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid "Alerts"
+msgstr "Alertas"
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid "Areas of interest"
+msgstr "Areas de Interes"
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_aboutus
+msgid ""
+"At SolesGPS, we understand the importance of vehicle safety and protection. \n"
+"                                    That's why we offer comprehensive solutions that include the installation of \n"
+"                                    state-of-the-art tracking devices, advanced monitoring software, \n"
+"                                    and reliable support services."
+msgstr ""
+"En SolesGPS, entendemos la importancia de la seguridad y la protección de los vehículos. \n"
+"                                    Por eso ofrecemos soluciones integrales que incluyen la instalación de \n"
+"                                    dispositivos de seguimiento de última generación, software de monitoreo avanzado, \n"
+"                                    y servicios de soporte fiables."
+
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.footer_custom_instance
+msgid "Contact us"
+msgstr "COntactanos"
+
+#. module: gpsmap_website
+#: model:ir.model.fields,field_description:gpsmap_website.field_res_users__customer_ids
+msgid "Contactos Relacionados"
+msgstr ""
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid "Create your areas of importance and classify them by color."
+msgstr "Crea tus áreas de importancia y clasifícalas por color."
+
+#. module: gpsmap_website
+#: model:ir.model.fields,field_description:gpsmap_website.field_fleet_vehicle__customer_id
+msgid "Customer"
+msgstr "Clientes"
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid "Engine stop"
+msgstr "Paro de Motor"
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid "Geolocate assets"
+msgstr "Geolocaliza Activos"
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid "History Map"
+msgstr "Historial en Mapa"
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.footer_custom_instance
+msgid "Home"
+msgstr "Inicio"
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_aboutus
+msgid ""
+"If you are looking for a reliable and effective vehicle tracking solution, \n"
+"                                    you are in the right place. Contact us today and let us show you how \n"
+"                                    we can help you protect and optimize your vehicles!"
+msgstr ""
+"Si busca una solución de seguimiento de vehículos fiable y eficaz, \n"
+"                                    Estás en el lugar indicado. Contáctanos hoy mismo y permítenos mostrarte cómo. \n"
+"                                    Podemos ayudarte a proteger y optimizar tus vehículos!"
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid "Imagen 1"
+msgstr ""
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid "Imagen 2"
+msgstr ""
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid "Imagen 3"
+msgstr ""
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid "Locate them and watch their journey every minute with our platform."
+msgstr "Ubícalos y sigue su trayecto minuto a minuto con nuestra plataforma."
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.footer_custom_instance
+msgid "Login"
+msgstr ""
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid "Manage the entry and exit of your vehicles."
+msgstr "Gestiona la entrada y salida de tus vehículos."
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid "Next"
+msgstr "Siguiente"
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_aboutus
+msgid ""
+"Our team of highly trained and dedicated professionals is ready to provide \n"
+"                                    you with the best advice and personalized attention. \n"
+"                                    We work closely with our clients to understand their specific needs \n"
+"                                    and offer solutions tailored to their requirements."
+msgstr ""
+"Nuestro equipo de profesionales altamente capacitados y dedicados está listo para brindar \n"
+"                                    brindándote el mejor asesoramiento y una atención personalizada. \n"
+"                                    Trabajamos en estrecha colaboración con nuestros clientes para comprender sus necesidades específicas. \n"
+"                                    y ofrecer soluciones adaptadas a sus necesidades."
+
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid "Perform engine stop, any day, at any time."
+msgstr "Realiza la parada del motor, cualquier día y a cualquier hora."
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid "Previous"
+msgstr "Anterior"
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid "Receive alerts for speeding, geofences, etc."
+msgstr "Recibe alertas por exceso de velocidad, geocercas, etc."
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid "Share the location to the owner of the merchandise."
+msgstr "Compartir la ubicación al propietario de la mercancía."
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid "Smart Report"
+msgstr "Reporte Inteligente"
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_aboutus
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_contactus
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_contactus_thanks
+msgid "SolesGPS"
+msgstr ""
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid "Street View"
+msgstr "Vista Urbana"
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid ""
+"They will have a history and a simulation of the route carried out, to "
+"detail the movements carried out previously."
+msgstr ""
+"Tendrán un historial y una simulación de la ruta realizada, para"
+"Detalle los movimientos realizados anteriormente."
+
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid "Track your assets that are updated every minute."
+msgstr "Realiza un seguimiento de tus activos, que se actualizan cada minuto."
+
+#. module: gpsmap_website
+#: model:ir.model,name:gpsmap_website.model_res_users
+msgid "User"
+msgstr "Usuario"
+
+#. module: gpsmap_website
+#: model:ir.model,name:gpsmap_website.model_fleet_vehicle
+msgid "Vehicle"
+msgstr "Vehículo"
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_aboutus
+msgid ""
+"We are committed to ensuring that our customers get accurate, \n"
+"                                    real-time information about the location and status of their vehicles at all times."
+msgstr ""
+"Estamos comprometidos a garantizar que nuestros clientes reciban información precisa, \n"
+"                                    información en tiempo real sobre la ubicación y el estado de sus vehículos en todo momento."
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_aboutus
+msgid ""
+"We pride ourselves on building strong, long-lasting relationships with our clients, \n"
+"                                    based on trust, transparency, and exceptional service.\n"
+"                                    We are passionate about helping our clients achieve their goals and improve the \n"
+"                                    efficiency of their operations."
+msgstr ""
+"Nos enorgullecemos de construir relaciones sólidas y duraderas con nuestros clientes, \n"
+"                                    basado en la confianza, la transparencia y un servicio excepcional.\n"
+"                                    Nos apasiona ayudar a nuestros clientes a alcanzar sus objetivos y mejorar la \n"
+"                                    la eficiencia de sus operaciones."
+
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid ""
+"You will have a street or driver view, so you can have a better perspective "
+"of your location."
+msgstr ""
+"Tendrás una vista a nivel de calle o de conductor, para que puedas tener una mejor perspectiva. "
+"de tu ubicación."
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.website_homepage
+msgid ""
+"You will have access to smart reports, machine hours, daily km, etc, to make"
+" the right decisions at the right times."
+msgstr ""
+"Tendrás acceso a informes inteligentes, horas de máquina, kilómetros diarios, etc., para tomar decisiones."
+"las decisiones correctas en los momentos adecuados."
+
+#. module: gpsmap_website
+#: model_terms:ir.ui.view,arch_db:gpsmap_website.footer_custom_instance
+msgid "contacto@solesgps.com"
+msgstr ""
