@@ -149,7 +149,8 @@ msgstr ""
 #. module: gpsmap_website
 #: model_terms:ir.ui.view,arch_db:gpsmap_website.footer_custom_instance
 msgid "Contact us"
-msgstr "COntactanos"
+msgstr "Contactanos"
+
 
 #. module: gpsmap_website
 #: model:ir.model.fields,field_description:gpsmap_website.field_res_users__customer_ids

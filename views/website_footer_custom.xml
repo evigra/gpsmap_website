@@ -5,7 +5,7 @@
             <a href="mailto:contacto@solesgps.com">contacto@solesgps.com</a>
         </xpath>
         <xpath expr="//a[@href='tel:+1 555-555-5556']" position="replace">
-            <a href="tel:+52 (312) 454 - 9998">+52 (312) 454 - 9998</a>
+            <a href="tel:+52 (312) 454 - 9998">+52 (314) 352 - 0972</a>
         </xpath>        
         <xpath expr="//a[@href='/website/social/twitter']" position="attributes">
             <attribute name="hidden">True</attribute>

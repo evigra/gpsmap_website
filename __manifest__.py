@@ -26,15 +26,18 @@ Main features
         'website',
         'gpsmap',        
     ],
+    
+    'pre_init_hook': 'pre_init_hook',
     'data': [
         # DATA
         #'data/ir_cron.xml',
-        
+        'data/website.xml',
         #'security/security.xml',
         #'security/ir.model.access.csv',
 
         # VIEW
         'views/homepage.xml',
+        
         'views/website_aboutus.xml',
         'views/website_contactus_thanks.xml',
         'views/website_contactus.xml',
